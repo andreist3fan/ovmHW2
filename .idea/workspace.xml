@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ovmHW2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/Homework2_OVM2024.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter/homework.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="some commit">
+      <change afterPath="$PROJECT_DIR$/jupyter/data/aapl-options-exp-2025-01-17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/data/aapl-options-exp-2025-01-24.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter/homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/homework.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andreist3fan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/andreist3fan/ovmHW2.git&quot;,
+    &quot;accountId&quot;: &quot;b0a34f78-7585-469e-9571-2e858bec69e3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rJLWO2fheWLTCKudVdbq0uY9M6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/40723/PycharmProjects/ovmHW2/jupyter/data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +62,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\40723\PycharmProjects\ovmHW2\jupyter\data" />
+      <recent name="C:\Users\40723\PycharmProjects\ovmHW2" />
+      <recent name="C:\Users\40723\PycharmProjects\ovmHW2\assignment\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\40723\PycharmProjects\ovmHW2\jupyter" />
       <recent name="C:\Users\40723\PycharmProjects\ovmHW2\assignment" />
     </key>
   </component>
@@ -74,11 +88,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736272261852</updated>
-      <workItem from="1736272262938" duration="692000" />
+      <workItem from="1736272262938" duration="1031000" />
+      <workItem from="1736666246755" duration="5240000" />
     </task>
+    <task id="LOCAL-00001" summary="some commit">
+      <option name="closed" value="true" />
+      <created>1736273085152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736273085152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="some commit" />
   </component>
 </project>
