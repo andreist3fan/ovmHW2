@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="bit by bit">
-      <change afterPath="$PROJECT_DIR$/jupyter/data/aapl-options-exp-2026-06-18.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter/homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/homework.ipynb" afterDir="false" />
     </list>
@@ -90,7 +89,8 @@
       <updated>1736272261852</updated>
       <workItem from="1736272262938" duration="1031000" />
       <workItem from="1736666246755" duration="21654000" />
-      <workItem from="1736755087405" duration="9207000" />
+      <workItem from="1736755087405" duration="9906000" />
+      <workItem from="1736783324696" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="some commit">
       <option name="closed" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736768679984</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bit by bit">
+      <option name="closed" value="true" />
+      <created>1736779372202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736779372202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
