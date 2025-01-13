@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="clean up">
-      <change afterPath="$PROJECT_DIR$/jupyter/data/aapl-options-exp-2025-10-17.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="2b)">
       <change beforePath="$PROJECT_DIR$/jupyter/homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/homework.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +88,7 @@
       <updated>1736272261852</updated>
       <workItem from="1736272262938" duration="1031000" />
       <workItem from="1736666246755" duration="21654000" />
-      <workItem from="1736755087405" duration="3318000" />
+      <workItem from="1736755087405" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="some commit">
       <option name="closed" value="true" />
@@ -124,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736691351164</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2b)">
+      <option name="closed" value="true" />
+      <created>1736765458499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736765458499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +141,7 @@
     <MESSAGE value="start work on exercise 1" />
     <MESSAGE value="2a)" />
     <MESSAGE value="clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
+    <MESSAGE value="2b)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2b)" />
   </component>
 </project>
