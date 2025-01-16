@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4480cac9-6bd7-416c-9591-7a90968d55e4" name="Changes" comment="3a)">
+      <change beforePath="$PROJECT_DIR$/.idea/ovmHW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ovmHW2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter/homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/homework.ipynb" afterDir="false" />
     </list>
@@ -32,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/andreist3fan/ovmHW2.git&quot;,
-    &quot;accountId&quot;: &quot;b0a34f78-7585-469e-9571-2e858bec69e3&quot;
+    &quot;accountId&quot;: &quot;380aad5d-37e4-4033-ac93-204dc8096e99&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -49,6 +50,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/40723/PycharmProjects/ovmHW2/jupyter/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -74,8 +76,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -91,6 +93,10 @@
       <workItem from="1736666246755" duration="21654000" />
       <workItem from="1736755087405" duration="9906000" />
       <workItem from="1736783324696" duration="4545000" />
+      <workItem from="1736854222642" duration="710000" />
+      <workItem from="1736862389068" duration="2513000" />
+      <workItem from="1736866904164" duration="1675000" />
+      <workItem from="1737046004312" duration="6033000" />
     </task>
     <task id="LOCAL-00001" summary="some commit">
       <option name="closed" value="true" />
